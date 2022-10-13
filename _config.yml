@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Vladislav Morozov"
-  avatar           : "tree1.jpg"
+  avatar           : "bio-photo.jpg"
   bio              : "PhD Candidate in Econometrics"
-  location         : "Universitat Pompeu Fabra, Barcelona"
-  employer         :
+  location         : "Barcelona"
+  employer         : "Universitat Pompeu Fabra"
   pubmed           :
   googlescholar    :
-  email            :
+  email            : "vladislav.morozov [ at ] upf.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            :
+  orcid            : "https://orcid.org/0000-0001-6183-0487"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
