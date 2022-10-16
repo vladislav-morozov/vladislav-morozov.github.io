@@ -9,7 +9,7 @@ excerpt: 'Joint with Christian Brownlees. Slides available, working paper versio
 
 
 
-[Download slides here](/files/1_unitaveragingSlides.pdf)
+[Download slides here](/files/1_unitAveragingSlides.pdf)
 
 *Abstract*: In this work we introduce a unit averaging procedure to efficiently recover unit
 specific parameters in a heterogeneous panel. The procedure consists in estimating
