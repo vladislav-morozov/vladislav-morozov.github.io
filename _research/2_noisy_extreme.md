@@ -2,12 +2,12 @@
 title: "Inference on Extreme Quantiles of Unobserved Individual Heterogeneity"
 collection: research
 permalink: /research/2_noisy_extreme
-excerpt: 'ArXiv ID: '
-paperurl: '/files/2_noisyExtremeWP.pdf'
+excerpt: ' '
+paperurl: 'https://arxiv.org/abs/2210.08524'
 ---
 
 
-[Download paper here](/files/2_noisyExtremeWP.pdf)
+[Download paper here](https://arxiv.org/abs/2210.08524)
 
 *Abstract*:  We develop a methodology for conducting inference on extreme quantiles of unobserved
 individual heterogeneity (heterogeneous coefficients, heterogeneous treatment
