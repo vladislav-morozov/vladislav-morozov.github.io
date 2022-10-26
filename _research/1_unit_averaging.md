@@ -2,7 +2,8 @@
 title: "Unit Averaging for Heterogeneous Panels"
 collection: research
 permalink: /research/1_unit_averaging
-excerpt: 'Joint with Christian Brownlees. Slides available, working paper version coming soon.'
+excerpt: 'Joint with Christian Brownlees. Slides and online appendix available'
+paperurl: 'https://arxiv.org/abs/2210.14205'
 ---
 
 *Joint with Christian Brownlees.*
@@ -10,6 +11,8 @@ excerpt: 'Joint with Christian Brownlees. Slides available, working paper versio
 
 
 [Download slides here](/files/1_unitAveragingSlides.pdf)
+
+[Download online appendix here](/files/1_unitAveragingSupplement.pdf)
 
 *Abstract*: In this work we introduce a unit averaging procedure to efficiently recover unit
 specific parameters in a heterogeneous panel. The procedure consists in estimating
