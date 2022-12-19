@@ -8,7 +8,7 @@ paperurl: 'https://arxiv.org/abs/2210.14205'
 
 *Joint with Christian Brownlees.*
 
-
+[Download paper here](https://arxiv.org/abs/2210.14205)
 
 [Download slides here](/files/1_unitAveragingSlides.pdf)
 
