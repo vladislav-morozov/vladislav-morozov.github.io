@@ -9,6 +9,6 @@ redirect_from:
 ---
 **Welcome to my personal website!**
 
-I am a PhD candidate in econometrics at Universitat Pompeu Fabra and Barcelona School of Economics in Barcelona, Spain.
+I am a PhD candidate in econometrics at Universitat Pompeu Fabra (UPF) and Barcelona School of Economics (BSE) in Barcelona, Spain.
 
 My research interests are panel data econometrics and econometrics of pervasive heterogeneity. I am supervised by Prof. Christian Brownlees and Prof. Kirill Evdokimov.

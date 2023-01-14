@@ -86,7 +86,7 @@ author:
   location         : "Barcelona"
   employer         : "Universitat Pompeu Fabra"
   pubmed           :
-  googlescholar    :
+  googlescholar    : "https://scholar.google.com/citations?user=ucRZT9UAAAAJ&"
   email            : "vladislav.morozov [ at ] upf.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
