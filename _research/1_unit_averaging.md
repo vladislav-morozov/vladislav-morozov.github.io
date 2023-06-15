@@ -2,9 +2,10 @@
 title: "Unit Averaging for Heterogeneous Panels"
 collection: research
 permalink: /research/1_unit_averaging
-excerpt: 'Joint with Christian Brownlees. Slides and online appendix available'
+excerpt: 'R&R at Journal of Business & Economic Statistics. Joint with Christian Brownlees. Slides and online appendix available'
 paperurl: 'https://arxiv.org/abs/2210.14205'
 ---
+R&R at *Journal of Business & Economic Statistics*
 
 *Joint with Christian Brownlees.*
 
