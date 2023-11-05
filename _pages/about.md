@@ -15,6 +15,8 @@ My advisors are Prof. Christian Brownlees and Prof. Kirill Evdokimov.
 
 I will be available on the Job Market during the 2023-2024 academic year.
 
+Quick links: [job market paper](https://vladislav-morozov.github.io/files/marginalEffectsMomentsDistribution.pdf), [CV](https://vladislav-morozov.github.io/files/Vladislav%20Morozov%20CV.pdf)
+
 ## Research
 
 
