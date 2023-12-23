@@ -21,7 +21,7 @@ author_profile: true
 
 <ul>
 
-<li>  <b> Inference on Extreme Quantiles of Unobserved Individual Heterogeneity </b>,  <em>Submitted</em>
+<li>  <b> Inference on Extreme Quantiles of Unobserved Individual Heterogeneity </b>,  <em>R&R at Econometric Theory</em>
 <details><summary>[Abstract] [<a href="https://arxiv.org/abs/2210.08524">Arxiv (June 2023)</a>][<a href="https://vladislav-morozov.github.io/files/2_noisyExtremeSupplement.pdf">Online appendix</a>]</summary>
 <p>
 <em> We develop a methodology for conducting inference on extreme quantiles of unobserved individual heterogeneity (heterogeneous coefficients, heterogeneous treatment effects, etc.) in a panel data or meta-analysis setting. Inference in such settings is challenging: only noisy estimates of unobserved heterogeneity are available, and approximations based on the central limit theorem work poorly for extreme quantiles. For this situation, under weak assumptions we derive an extreme value theorem and an intermediate order theorem for noisy estimates and appropriate rate and moment conditions. Both theorems are then used to construct confidence intervals for extremal quantiles. The intervals are simple to construct and require no optimization. Inference based on the intermediate order theorem involves a novel self-normalized intermediate order theorem. In simulations, our extremal confidence intervals have favorable coverage properties in the tail. Our methodology is illustrated with an application to firm productivity in denser and less dense areas.
