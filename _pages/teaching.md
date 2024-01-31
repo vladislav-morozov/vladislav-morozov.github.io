@@ -8,7 +8,7 @@ author_profile: true
 
 | Year      	| Course 	| Level         	| Institution 	|
 |-----------	|--------	|---------------	|-------------	|
-| 2023 	| Python for Data Science 	| Graduate      	| BSE         	|
+| 2023 	| Data Science and Machine Learning with Python 	| Graduate/Professional      	| BSE         	|
 | 2018-2022 	| TA: Advanced Econometrics  I 	| Graduate      	| BSE         	|
 | 2018-2022 	| TA: Advanced Econometrics II &nbsp; &nbsp; | Graduate      	| BSE         	|
 | 2022      	| TA:  Forecasting Techniques  	|  Undergraduate             	|         UPF    	|
