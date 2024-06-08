@@ -10,12 +10,8 @@ redirect_from:
 
 ## About
 
-I am a PhD candidate in econometrics at Universitat Pompeu Fabra (UPF) and Barcelona School of Economics (BSE) in Barcelona, Spain.
-My advisors are Prof. Christian Brownlees and Prof. Kirill Evdokimov.
+I hold a PhD in econometrics from Universitat Pompeu Fabra (UPF). Starting Fall, I will be joining the Institute of Finance and Statistics at the Department of Economics at the University of Bonn as an Assistant Professor.
 
-I will be available on the Job Market during the 2023-2024 academic year.
-
-Quick links: [job market paper](https://vladislav-morozov.github.io/files/marginalEffectsMomentsDistribution.pdf), [CV](https://vladislav-morozov.github.io/files/Vladislav%20Morozov%20CV.pdf)
 
 ## Research
 

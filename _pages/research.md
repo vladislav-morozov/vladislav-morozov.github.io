@@ -7,19 +7,20 @@ author_profile: true
 
 
 
-## Job Market Paper
 
-<b>Estimating The  Moments and the Distribution of Heterogeneous Marginal Effects Using Panel Data</b>   
-<details><summary>[Abstract] [<a href="https://vladislav-morozov.github.io/files/marginalEffectsMomentsDistribution.pdf">Latest version</a>][<a href="https://vladislav-morozov.github.io/research/4_marginal_effects_general_heterogeneity">Additional links</a>]   </summary>
+## Working Papers
+
+<ul>
+
+<li>  <b>Estimating The  Moments and the Distribution of Heterogeneous Marginal Effects Using Panel Data</b>   
+<details><summary>[Abstract] [<a href="https://vladislav-morozov.github.io/files/marginalEffectsMomentsDistribution.pdf">Latest version</a>]    </summary>
 <p>
 <em> 			This paper considers  estimation of the moments and the distribution of heterogeneous marginal effects using panel data. 	  We impose no restrictions on the form or dimension of time-invariant heterogeneity. In this setting, we identify the mean, variance, higher-order moments, and the distribution of marginal effects using two periods of data. We propose simple nonparametric estimators for the moments and the distribution, and study their asymptotic properties. The moment estimators are consistent and asymptotically normal. For the distribution estimator, we establish  consistency  by developing novel   results that connect   the convergence of distributions to  the convergence of their moments. 		We illustrate the methodology with an application to Engel curves for food at home. 	Our analysis of variance, higher moments, and the distribution of marginal effects reveals significant heterogeneity. In particular, some households   have upward-sloping sections in their Engel curves for lower values of expenditures. In contrast, the average Engel curve is downward-sloping for all expenditure values, in line with the previous literature.
 </em>
 </p>
 </details>
+</li>
 
-## Working Papers
-
-<ul>
 
 <li>  <b> Inference on Extreme Quantiles of Unobserved Individual Heterogeneity </b>,  <em>R&R at Econometric Theory</em>
 <details><summary>[Abstract] [<a href="https://arxiv.org/abs/2210.08524">Arxiv</a>][<a href="https://vladislav-morozov.github.io/files/2_noisyExtremeSupplement.pdf">Online appendix</a>]</summary>
@@ -50,11 +51,8 @@ author_profile: true
 <ul>
 
 
-<li> <b>Deconvolution Estimation and Inference on the Distribution of Heterogeneous Marginal Effects Using Panel Data </b>
-<details><summary>[<a href="https://vladislav-morozov.github.io/research/5_inference_distribution_marginal_effects">Project page</a>] </summary>
-<p>
-</p>
-</details>
+<li> <b>Deconvolution Estimation and Inference on the Distribution of Marginal Effects </b>
+
  </li>
  <li> <b> Distribution Equality Tests With Noisy Observations </b> (with Andrea Sy) </li>
 </ul>
