@@ -10,7 +10,8 @@ redirect_from:
 
 ## About
 
-I hold a PhD in econometrics from Universitat Pompeu Fabra (UPF). Starting Fall, I will be joining the Institute of Finance and Statistics at the Department of Economics at the University of Bonn as an Assistant Professor.
+I am an Assistant Professor in Econometrics at the Institute of Finance and Statistics at the Department of Economics at the University of Bonn.
+I hold a PhD in econometrics from Universitat Pompeu Fabra (UPF). 
 
 
 ## Research
